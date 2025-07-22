@@ -1,12 +1,14 @@
-streamlit as st
+streamlit 
 requests
 os
 json
 time
 PIL 
-Image, ImageDraw, ImageFont
+Image
+ImageDraw
+ImageFont
 cv2
-numpy as np
+numpy 
 urllib.parse 
 urljoin
 urlparse
@@ -20,8 +22,8 @@ Dict
 Any
 base64
 io
-plotly.express as px
-plotly.graph_objects as go
-datetime import datetime
+plotly.express
+plotly.graph_objects
+datetime
 tempfile
 zipfile
