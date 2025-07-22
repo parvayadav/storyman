@@ -1,1 +1,27 @@
-streamlit
+streamlit as st
+requests
+os
+json
+time
+PIL 
+Image, ImageDraw, ImageFont
+cv2
+numpy as np
+urllib.parse 
+urljoin
+urlparse
+bs4 
+BeautifulSoup
+openai
+dataclasses 
+typing 
+List
+Dict
+Any
+base64
+io
+plotly.express as px
+plotly.graph_objects as go
+datetime import datetime
+tempfile
+zipfile
